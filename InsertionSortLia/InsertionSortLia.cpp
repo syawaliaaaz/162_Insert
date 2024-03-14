@@ -74,6 +74,13 @@ void display() { //Procedure Display
 
 }
 
+int main()
+{
+	input();         //Memanggil input
+	insertionsort(); //Memanggil insertionsort
+	display();       //Memanggil Display
+
+}
 
 
 
